@@ -31,4 +31,4 @@ This project involved a multi-step analysis process:
 4.  **Interactive Reporting:** The enriched data was then used to build a PivotTable dashboard. By combining PivotTables, PivotCharts, and Slicers, I created a dynamic report where a user could easily filter sales data by `Country` and instantly see updated charts and summaries for different product categories and customer genders.
 
 ## Final Report
-The final interactive report, including all calculated columns, the PivotTable, Slicer, and PivotChart, can be viewed in the **`Sales_Performance_Analysis.xlsx`** file included in this repository.
+The final interactive report, including all calculated columns, the PivotTable, Slicer, and PivotChart, can be viewed in the **`Sales_Performance_Analysis_IMPROVED.xlsx`** file included in this repository.
